@@ -163,6 +163,18 @@
     padding-bottom: 49px;
   }
   
+  .contact50-form-title {
+    display: block;
+    font-family: Ubuntu-Bold;
+    font-size: 50 px;
+    color: #fafafd;
+    line-height: 1.2;
+    
+    text-align: center;
+    padding-bottom: 50px;
+  }
+  
+
   /*------------------------------------------------------------------
   [ Input ]*/
   
